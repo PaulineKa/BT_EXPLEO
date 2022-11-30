@@ -1,1 +1,2 @@
 function OK
+wait(500ms)
